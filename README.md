@@ -1,6 +1,8 @@
 # Mission de mise à jour de la page Riding Cities
 
-![riding cities](https://github.com/user-attachments/assets/b730049a-20c3-4aca-aeb6-1a190f55a5a9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b730049a-20c3-4aca-aeb6-1a190f55a5a9" alt="riding cities">
+</p>
 
 ## Description
 Dans ce projet, vous devez mettre à jour la page web de Riding Cities, une association sportive dédiée à la promotion du skate en région. Le but est d'actualiser certaines sections de la page en suivant les indications de la maquette fournie.
